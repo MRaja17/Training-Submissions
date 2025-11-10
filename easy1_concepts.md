@@ -1,3 +1,4 @@
+> Edited again on Updated-on-easy1 branch
 > Updated on branch Updated-on-easy1
 # Easy 1 — Key concept of SQL Basics (in my own words)
 
