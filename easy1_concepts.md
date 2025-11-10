@@ -1,3 +1,4 @@
+> Updated on branch Updated-on-easy1
 # Easy 1 — Key concept of SQL Basics (in my own words)
 
 **SQL (Structured Query Language)** is a standardized way to *describe what data you want* from tabular data rather than *how to get it*. 
